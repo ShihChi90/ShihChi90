@@ -1,5 +1,5 @@
 ### Shih-Chi, Shao 
-+ Undergraduate student majoring Geoscience
++ Master student studying Seismology
 + Taipei, Taiwan
 
 <!---
