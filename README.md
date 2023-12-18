@@ -1,5 +1,6 @@
 ### Shih-Chi, Shao 
-+ Master student studying Seismology
++ Master student studying Seismology @NTU_Geosciences
++ Learning Web development
 + Taipei, Taiwan
 
 <!---
